@@ -1,3 +1,11 @@
+zero-lliurex-smart (0.15) bionic; urgency=medium
+
+  * Make installer incompatible with official installer
+  * Changed logo
+  * Add translations 
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 27 May 2022 13:08:18 +0200
+
 zero-lliurex-smart (0.14.4) bionic; urgency=medium
 
   * Remove dependency xf86-input-nextwindow, without multitouch is useless
