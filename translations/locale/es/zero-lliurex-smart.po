@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-27 12:22+0200\n"
+"PO-Revision-Date: 2022-05-27 12:27+0200\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: zero-lliurex-smart.install/usr/share/zero-lliurex-smart/lliurex-smart_script:15
+msgid "Unable to install, this installer is incompatible with"
+msgstr "Imposible instalar, este instalador es incompatible con"
+
+#: zero-lliurex-smart.install/usr/share/zero-lliurex-smart/lliurex-smart_script:16
+msgid "Please remove all packages from official installer first"
+msgstr "Por favor primero elimine todos los paquetes del instalador oficial"
+
+#: zero-lliurex-smart.install/usr/share/zero-lliurex-smart/lliurex-smart_script:17
+msgid "official smart installer!"
+msgstr "instalador oficial Smart!"
+
+#: zero-lliurex-smart.install/usr/share/zero-lliurex-smart/lliurex-smart_script:18
+msgid "smart-product-drivers from official smart installer!"
+msgstr "smart-product-drivers del instalador oficial de Smart!"
+
+#: zero-lliurex-smart.install/usr/share/zero-lliurex-smart/lliurex-smart_script:19
+msgid "nwfermi-module-host from official smart installer!"
+msgstr "nwfermi-module-host del instalador oficial Smart!"
